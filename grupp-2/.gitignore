@@ -1,0 +1,9 @@
+Debug
+Release
+.mxproject
+.cproject
+.project
+STM32F303VCTx_FLASH.ld
+.settings
+secrets.h
+EWARM
